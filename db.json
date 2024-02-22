@@ -1,8 +1,55 @@
 {
   "pages": [
     {
-      "id": 1,
-      "title": "LIQIONGYU"
+      "id": "1",
+      "pageName": "info",
+      "avatar": "https://s1.ax1x.com/2023/07/30/pPpyRDx.jpg",
+      "pageTitle": "HELLO! I'm LIQIONGYU",
+      "characteristicList": [
+        {
+          "id": "1-1-1",
+          "characteristicTitle": "Fueled by Innovation",
+          "characteristicContent": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnimolestiae laudantium dignissimos est nobis delectus nemo ea alias voluptatum architecto, amet similique, saepe iste consectetur inrepellat ut minus quibusdam!"
+        },
+        {
+          "id": "1-1-2",
+          "characteristicTitle": "Inspired by Purpose",
+          "characteristicContent": "Molestias et distinctio porro nesciunt ratione similique, magni doloribus, rerum nobis, aliquam quae reiciendis quasi modi. Nam arecusandae, fugiat in ea voluptates fuga eius, velit corrupti reprehenderit dignissimos consequatur!"
+        },
+        {
+          "id": "1-1-3",
+          "characteristicTitle": "Driven by Creativity",
+          "characteristicContent": "Blanditiis, cumque quo adipisci. Molestiae, dolores dolorum quosdoloremque ipsa ullam eligendi commodi deserunt doloribus inventoremagni? Ea mollitia veniam nostrum nihil, iusto doloribus a at! Eamolestiae ullam delectus!"
+        }
+      ],
+      "aboutMe": [
+        {
+          "id": "1-2-1",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnimolestiae laudantium dignissimos est nobis delectus nemo ea aliasvoluptatum architecto, amet similique, saepe iste consectetur inrepellat ut minus quibusdam!"
+        },
+        {
+          "id": "1-2-2",
+          "content": "Molestias et distinctio porro nesciunt ratione similique, magnidoloribus, rerum nobis, aliquam quae reiciendis quasi modi. Nam arecusandae, fugiat in ea voluptates fuga eius, velit corruptireprehenderit dignissimos consequatur!"
+        }
+      ],
+      "whatIDo": [
+        {
+          "id": "1-3-1",
+          "content": "Blanditiis, cumque quo adipisci. Molestiae, dolores dolorum quosdoloremque ipsa ullam eligendi commodi deserunt doloribus inventoremagni? Ea mollitia veniam nostrum nihil, iusto doloribus a at! Eamolestiae ullam delectus!"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "pageName": "project"
+    },
+    {
+      "id": "3",
+      "pageName": "biography"
+    },
+    {
+      "id": "4",
+      "pageName": "contect"
     }
   ]
 }
